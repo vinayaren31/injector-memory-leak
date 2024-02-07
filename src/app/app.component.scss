@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+
+  a {
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+    background: rgb(58,132,253);
+    padding: 5px 15px;
+    display: inline-block;
+    margin: 10px;
+    line-height: 1.4;
+  }
+
+  .comp2 {
+    background: rgb(14,77,180);
+  }
+}
+
+
